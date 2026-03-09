@@ -17,8 +17,14 @@ A beautiful weather application built with **Flutter** for iOS and Android. MyWe
 ## 📸 Screenshots
 
 > _Add your app screenshots here_
+>   <img src="assets/screenshots/main.jpg/" width="200"/>
+>  <img src="assets/screenshots/main2.jpg/" width="200"/>
+>   <img src="assets/screenshots/14days.jpg/" width="200"/>
+>   <img src="assets/screenshots/darkmodemain.jpg/" width="200"/>
+>   <img src="assets/screenshots/searchscreen.jpg/" width="200"/>
+>   <img src="assets/screenshots/sidemenu.jpg/" width="200"/>
+>   <img src="assets/screenshots/hourlyforcust.jpg/" width="200"/>
 
----
 
 ## 🛠️ Tech Stack
 
